@@ -2,7 +2,7 @@ import {Button, Select, TextInput} from "flowbite-react";
 import {FaSearch} from "react-icons/fa";
 import {ContainerFluid} from "../../../../layouts";
 import {useNavigate} from "react-router-dom";
-
+// search bar
 const Hero = () => {
     const navigate = useNavigate()
 

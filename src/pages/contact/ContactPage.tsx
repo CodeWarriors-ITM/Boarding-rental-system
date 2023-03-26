@@ -21,12 +21,7 @@ const ContactPage = () => {
 
                     <div className={"p-6 text-gray-500"}>
                         <p className={"mb-4 text-justify"}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed amet consectetur adipisicing elit. Maxime
-                            mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed
+                           Contact us , feel friendly to reach us
                         </p>
                         <div className="flex items-center gap-3 mb-2">
                             <FaHome/>

@@ -1,5 +1,5 @@
 import {useNavigate} from "react-router-dom";
-
+//city
 const CityAvatar = () => {
     const navigate = useNavigate()
 
