@@ -1,6 +1,6 @@
 import {Container} from "../../../../layouts";
 import CityAvatar from "./comopnents/city-avatar/CityAvatar";
-
+//city list
 const Discover = () => {
     return (
         <Container>

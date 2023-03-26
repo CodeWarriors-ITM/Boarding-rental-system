@@ -1,5 +1,5 @@
 import {FaSearch} from "react-icons/fa";
-
+//filter
 const Filter = () => {
     return (
         <div className={"bg-white border h-fit shadow rounded"}>

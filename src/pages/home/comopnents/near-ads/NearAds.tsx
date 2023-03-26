@@ -1,6 +1,6 @@
 import {Container} from "../../../../layouts";
 import {ProductCard, ProductGridWrapper} from "../../../../components";
-
+//Advertisement
 const NearAds = () => {
     return (
         <Container className={"py-3 pb-12"}>
