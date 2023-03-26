@@ -1,7 +1,7 @@
 import AboutPage from "../pages/about/AboutPage";
 import {RootLayout} from "../layouts";
 import {createBrowserRouter} from "react-router-dom";
-import {AdPage, ContactPage, HomePage, NotFoundPage, PrivacyPolicyPage, SearchPage} from "../pages";
+import {AdPage, ContactPage, HomePage, NotFoundPage, PrivacyPolicyPage, SearchPage,PurchasePage} from "../pages";
 
 export const routes = createBrowserRouter([
     {
@@ -31,6 +31,11 @@ export const routes = createBrowserRouter([
             {
                 path: "privacy-policy",
                 element: <PrivacyPolicyPage/>
+            },
+
+            {
+                path:"PurchasePage",
+                element:<PurchasePage/>
             }
         ],
     },

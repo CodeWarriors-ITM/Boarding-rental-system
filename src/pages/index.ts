@@ -4,6 +4,8 @@ import NotFoundPage from "./not-found/NotFoundPage";
 import SearchPage from "./search/SearchPage";
 import ContactPage from "./contact/ContactPage";
 import PrivacyPolicyPage from "./privacy-policy/PrivacyPolicyPage";
+import PurchasePage from "./PurchasePage/PurchasePage";
+
 
 export {
     HomePage,
@@ -11,5 +13,6 @@ export {
     NotFoundPage,
     SearchPage,
     ContactPage,
-    PrivacyPolicyPage
+    PrivacyPolicyPage,
+    PurchasePage
 }
