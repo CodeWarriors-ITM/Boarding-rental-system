@@ -4,7 +4,7 @@ import React from "react";
 interface ILoginFormProps {
     changeToggle: () => void
 }
-
+//Log in form
 const LoginForm = ({changeToggle = () => {}}: ILoginFormProps) => {
     return (
         <form className="flex flex-col gap-4 px-4">

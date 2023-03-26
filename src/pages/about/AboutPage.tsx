@@ -16,9 +16,7 @@ const AboutPage = () => {
                             Our Mission
                         </p>
                         <p className="text-justify">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed odit
+                            Connecting Bording Owner & Student
                         </p>
                     </div>
 
@@ -28,11 +26,8 @@ const AboutPage = () => {
                             Our Target
                         </p>
                         <p className="text-justify">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed odit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed odit
+                            We value your sefty and ease finding boarding places,
+                            we connent boarding owners with university students while creating a sutainable business oppertunity with it.
                         </p>
                     </div>
 
@@ -42,10 +37,8 @@ const AboutPage = () => {
                             Our Vision
                         </p>
                         <p className="text-justify">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                            molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed odit commodi repudiandae consequuntur voluptatum laborum
-                            numquam blanditiis harum quisquam eius sed odit
+                            Creating values to students and boarding owners
+                            Allowing boarding owners to find students easily
                         </p>
                     </div>
                 </div>

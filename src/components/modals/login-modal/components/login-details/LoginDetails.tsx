@@ -8,8 +8,7 @@ const LoginDetails = () => {
                 Login to Bodima.lk
             </h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                molestiae quas vel sint commodi repudiandae consequuntur
+                Find Your Bording Place easily
             </p>
 
             <div className={"grid grid-cols-4 gap-4 mt-6"}>
@@ -18,8 +17,9 @@ const LoginDetails = () => {
                 </div>
 
                 <div className={"col-span-3 mt-2"}>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
-                        quas vel sint commodi repudiandae</p>
+                    <p>
+                     Feel Comfort 
+                    </p>
                 </div>
 
                 <div>
@@ -27,8 +27,9 @@ const LoginDetails = () => {
                 </div>
 
                 <div className={"col-span-3 mt-2"}>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
-                        quas vel sint commodi repudiandae</p>
+                    <p>
+                        join with us , feel safe
+                    </p>
                 </div>
 
                 <div>
@@ -36,8 +37,9 @@ const LoginDetails = () => {
                 </div>
 
                 <div className={"col-span-3 mt-2"}>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
-                        quas vel sint commodi repudiandae</p>
+                    <p>
+                        24Hours Available for you
+                    </p>
                 </div>
             </div>
         </div>
