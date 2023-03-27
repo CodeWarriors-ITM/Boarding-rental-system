@@ -7,6 +7,7 @@ import PrivacyPolicyPage from "./privacy-policy/PrivacyPolicyPage";
 import PurchasePage from "./PurchasePage/PurchasePage";
 
 
+
 export {
     HomePage,
     AdPage,
@@ -14,5 +15,6 @@ export {
     SearchPage,
     ContactPage,
     PrivacyPolicyPage,
-    PurchasePage
+    PurchasePage,
+  
 }

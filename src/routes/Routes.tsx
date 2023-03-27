@@ -2,6 +2,7 @@ import AboutPage from "../pages/about/AboutPage";
 import {RootLayout} from "../layouts";
 import {createBrowserRouter} from "react-router-dom";
 import {AdPage, ContactPage, HomePage, NotFoundPage, PrivacyPolicyPage, SearchPage,PurchasePage} from "../pages";
+import AdminAd from "../pages/CreateAdPage/adminAd";
 
 export const routes = createBrowserRouter([
     {
@@ -36,6 +37,11 @@ export const routes = createBrowserRouter([
             {
                 path:"PurchasePage",
                 element:<PurchasePage/>
+            }
+            ,
+            {
+                path:"AdminAd",
+                element:<AdminAd/>
             }
         ],
     },

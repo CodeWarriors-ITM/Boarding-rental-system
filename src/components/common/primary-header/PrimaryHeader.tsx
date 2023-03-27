@@ -52,8 +52,9 @@ const PrimaryHeader = () => {
                         </Navbar.Link>
 
                         <Navbar.Link
+                            onClick={() => navigate("/AdminAd")}
                             className={"!text-white cursor-pointer flex justify-center"}
-                            href="/">
+                            >
                             <button className="d-btn">POST YOUR ADD</button>
                         </Navbar.Link>
 

@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 const AdDetails = () => {
     const navigate = useNavigate()
+    //Property Title and description
     return (
         <div>
             <div className="flex justify-between items-center">
@@ -23,10 +24,12 @@ const AdDetails = () => {
                     <p>4.5</p>
                 </div>
                 <p className={"mt-1"}>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-                    molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                    numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-                    optio, eaque rerum! Provident similique accusantium nemo autem.
+                Badulla City Limit (1km) on Mahiyangana Road, Kailagoda Junction. <br />
+                Very close to Cargills Express and Fuel Station <br></br>
+                Upstair Annex for rent<br></br>
+                2 Bedroom, large pantry, modern bathroom<br></br>
+                separate entrance<br></br>
+                1 car parking slot<br></br>
                 </p>
             </div>
 
