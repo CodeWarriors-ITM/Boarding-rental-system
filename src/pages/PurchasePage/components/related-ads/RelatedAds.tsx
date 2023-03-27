@@ -17,5 +17,6 @@ const RelatedAds = () => {
         </div>
     )
 }
+{/*here student can saw the other boarding places related to therir recent search*/}
 
 export default RelatedAds;
